@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505755253920",
+    "project_id": "news-reading-app",
+    "storage_bucket": "news-reading-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505755253920:android:73399cf1ff617853f79dc5",
+        "android_client_info": {
+          "package_name": "com.example.news_reading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505755253920-avjd33b4aaljjlv8p33otu35tj3rcv44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgvv_mCBm8EpwSl7PHu8jIFovHn4kNoGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505755253920-avjd33b4aaljjlv8p33otu35tj3rcv44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
