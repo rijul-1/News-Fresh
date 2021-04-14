@@ -94,7 +94,7 @@ public class Sign_Up extends AppCompatActivity {
                     }).addOnFailureListener(new OnFailureListener() {
                         @Override
                         public void onFailure(@NonNull Exception e) {
-                            Toast.makeText(Sign_Up.this , "Some Error Occur",Toast.LENGTH_SHORT).show();
+                            Toast.makeText(Sign_Up.this ,e.getMessage(),Toast.LENGTH_SHORT).show();
                         }
                     });
                 }
